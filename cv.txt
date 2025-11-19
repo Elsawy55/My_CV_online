@@ -1,1 +1,2 @@
 Name Abdelrahman elsawy
+Skills: HTML, CSS, Git
